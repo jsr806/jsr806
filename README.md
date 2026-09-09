@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**jsr806/jsr806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi ，我是 jsr806
+## 个人简介
+在读本科生，主修资源勘查工程，辅修计算机。对算法、Web开发、AI图像生成感兴趣。
 
-Here are some ideas to get you started:
+##  项目展示
+###  辅修计算机作业：AI图像生成Web应用
+项目简介：基于Flask搭建前后端网页，调用AI图像生成API，实现自定义提示词生成图片，完成交互式Web程序开发。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  技能
+- 编程语言：C/C++、Python
+- Web：Flask、HTML
+- 工具：Git、GitHub
+
+## 联系方式
+邮箱：填写你的邮箱：1665152509@qq.com
